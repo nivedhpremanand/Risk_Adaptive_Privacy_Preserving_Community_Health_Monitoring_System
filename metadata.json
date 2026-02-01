@@ -1,0 +1,5 @@
+{
+  "name": "EPI-SHIELD: Decentralized Health Sentinel",
+  "description": "A privacy-first community health monitoring application utilizing browser-side federated learning, risk-adaptive differential privacy, and cohort-based snapshots for non-identifiable epidemiological observation.",
+  "requestFramePermissions": []
+}
