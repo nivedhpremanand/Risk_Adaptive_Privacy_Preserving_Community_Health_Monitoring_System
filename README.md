@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🛡️ Epi-Shield: Risk-Adaptive Health Sentinel
 
-# Run and deploy your AI Studio app
+Epi-Shield is a **privacy-first** decentralized community health monitoring system. It allows communities to track health trends without ever collecting personal or identifiable data.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1rckqPVAxJ1G7q2AheyPQ5AEQAGAP828f
+## 🚀 Key Highlights
 
-## Run Locally
+* **Decentralized Architecture**: Data stays on your device. There is no central database to hack.
+* **Federated Learning**: The AI model learns from everyone's data locally, then shares only "smart summaries" to the global map.
+* **Risk-Adaptive Privacy**: The system automatically tightens or loosens privacy protections based on real-time local health risks.
+* **Zero-Knowledge Proofs**: Prove you are part of a healthy (or at-risk) group without revealing who you are.
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* **Framework**: React + Vite
+* **Intelligence**: Google Gemini AI
+* **Styling**: Tailwind CSS
+* **Language**: TypeScript
+
+---
+
+## 💻 How to Run Locally
+
+1. **Install**: `npm install`
+2. **Configure**: Add your Gemini Key to `.env.local`
+3. **Launch**: `npm run dev`
